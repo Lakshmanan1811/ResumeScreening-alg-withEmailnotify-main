@@ -186,6 +186,6 @@ const emailAutomation = function (recipientEmail) {
   });
 };
 
-app.listen(8000, () => {
+app.listen(3000, () => {
   console.log("Example app listening on port 3000!");
 });
