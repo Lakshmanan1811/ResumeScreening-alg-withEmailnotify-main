@@ -148,7 +148,7 @@ const emailAutomation = function (recipientEmail) {
   });
 
   const mailOptions = {
-    from: "ashikcsbtech@gmail.com",
+    from: "velm28570@gmail.com",
     to: recipientEmail,
     subject: "**Congratulations! You are selected for next round**",
     text: `
